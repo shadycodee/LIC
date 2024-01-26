@@ -1,0 +1,10 @@
+DATABASE DESIGN 
+will be using MYSQL
+
+NOTES: 
+Students have only 10 hours per sem
+Has an option to export the data in the DATABASE
+Need date logged in and logged out for assurance of remaining time
+When logged in starts Tracking Time and also consums the time allotted which is 10 hours per sem
+Students may logged in many times in the day ensure a database where it is efficient to store data
+
