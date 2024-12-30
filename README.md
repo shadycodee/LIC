@@ -1,4 +1,5 @@
 <h2>Overview</h2> 
+[1.0.0]
 The LIC_System is a computer tracking system designed for monitoring students' computer usage in the Learning Internet Center (LIC) located within the library of the CIT-University. This system, implemented using Flask, aims to streamline the management of computer resources and ensure fair usage among students.
 
 <h2>Features</h2> 
